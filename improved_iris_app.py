@@ -81,3 +81,4 @@ if st.sidebar.button("Predict"):
 	
 	st.write("Species predicted:", species_type)
 	st.write("Accuracy score of this model is:", score)
+	st.balloons()
